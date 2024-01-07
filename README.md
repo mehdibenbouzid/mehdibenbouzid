@@ -32,4 +32,4 @@ Dedicated to lifelong learning and the exchange of knowledge. Open to discussing
 
 ---
 
-🤝 Looking to connect, collaborate, and share ideas with peers in technology and education.
+🤝 Feel free to reach out if you're interested in exchanging ideas or insights in technology and education.
