@@ -6,7 +6,7 @@
 
 🌟 **Professional Snapshot:**
 
-A passionate technologist and educator, I navigate the realms of IT project management, quality engineering, and multilingual education. Fluent in French, Spanish, and Arabic, my linguistic prowess complements my tech expertise, bringing unique perspectives to complex problems.
+As a technologist and educator with a passion for IT project management, quality engineering, and multilingual communication, I've enjoyed a journey through diverse professional landscapes. Being fluent in French, Spanish, and Arabic, I integrate these languages with my technical skills to address various challenges.
 
 ---
 
@@ -20,16 +20,16 @@ A passionate technologist and educator, I navigate the realms of IT project mana
 
 💼 **Tech and Teaching:**
 
-- Skilled in SAP, Business Intelligence, and IT project management
-- A dedicated educator, imparting knowledge in multiple languages
-- Always eager to dive into new tech challenges and innovations
+- Experienced in SAP, Business Intelligence, and IT project management
+- Committed to education, teaching in multiple languages
+- Continuously exploring new tech challenges and innovations
 
 ---
 
 🔭 **Looking Forward:**
 
-I'm committed to lifelong learning and sharing knowledge. Whether it's discussing the latest tech trends, exploring new programming paradigms, or exchanging cultural insights, I welcome diverse perspectives and ideas.
+Dedicated to lifelong learning and the exchange of knowledge. Open to discussing tech developments, programming, or cultural insights, valuing a diversity of ideas and perspectives.
 
 ---
 
-🤝 Open to connect, collaborate, and exchange thoughts with fellow enthusiasts in the realms of technology and education.
+🤝 Looking to connect, collaborate, and share ideas with peers in technology and education.
